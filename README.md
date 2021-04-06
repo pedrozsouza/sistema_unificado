@@ -1,5 +1,6 @@
 # sistema_unificado
 
+Projeto utilizando a linguagem de programação C.
 
 Sistema simplificado para gestão de alunos de uma disciplina com 36 aulas. O sistema deve armazenar os alunos
 cadastrados em um VETOR (a quantidade de alunos na disciplina deve ser fornecida
